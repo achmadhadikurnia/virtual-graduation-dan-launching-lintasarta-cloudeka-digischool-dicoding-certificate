@@ -20,7 +20,6 @@ Untukmu yang ingin berkesempatan mengikuti acara Lintasarta Developer Talk #1 se
 - Insight dari Experts
 - Rundown Acara
 
-
 ## Rundown
 | Time          | Session                                                                                |
 | ------------- | -------------------------------------------------------------------------------------- |
